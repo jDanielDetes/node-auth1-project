@@ -7,6 +7,7 @@
 - Password Hashing.
 - Sessions
 - Cookies
+  -Updated
 
 ## Description
 
